@@ -72,7 +72,7 @@ function HeroBanner() {
         className="relative rounded-xl overflow-hidden px-10 py-14 bg-cover bg-center"
         style={{
           backgroundImage:
-             "url('https://images.unsplash.com/photo-1495474472287-4d71bcdd2085')",
+             "/in_app_banner_bg_web_0e7f519352.png",
         }}
       >
         {/* Dark overlay */}
