@@ -1,2 +1,2 @@
-# Starbucks Clone (Simple React App)
+# Starbucks Clone 
 
